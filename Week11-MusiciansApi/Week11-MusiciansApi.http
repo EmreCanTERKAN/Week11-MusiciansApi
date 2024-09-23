@@ -1,0 +1,6 @@
+@Week11_MusiciansApi_HostAddress = http://localhost:5000
+
+GET {{Week11_MusiciansApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
